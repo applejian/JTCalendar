@@ -15,6 +15,7 @@
 
 @property (nonatomic) NSDate *date;
 
+@property (nonatomic) UIView *assignmentView;
 @property (nonatomic, readonly) UIView *circleView;
 @property (nonatomic, readonly) UIView *dotView;
 @property (nonatomic, readonly) UILabel *textLabel;
